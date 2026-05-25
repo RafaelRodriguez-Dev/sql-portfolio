@@ -2,7 +2,7 @@
 
 ###  Lo que aprendí
 * Comprender y usar `GROUP BY`
-* Comprender la difernecia entre `WHERE` Y `HAVING`
+* Comprender la diferencia entre `WHERE` Y `HAVING`
 * Hacer uso de agregaciones para contar, suma y promedio de diferentes columnas
  
 
