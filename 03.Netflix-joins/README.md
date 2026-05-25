@@ -1,4 +1,4 @@
-# Tema 02: JOINS usando base de datos de Netflix
+# Tema 03: JOINS usando base de datos de Netflix
 
 ###  Lo que aprendí
 * Comprender y usar `JOIN` y `LEFT JOIN`
